@@ -1,0 +1,621 @@
+﻿GROUP;CODE;NAME;YEAR;ANTIGEN;ANTIGEN_DESCRIPTION;COVERAGE_CATEGORY;COVERAGE_CATEGORY_DESCRIPTION;TARGET_NUMBER;DOSES;COVERAGE
+COUNTRIES;AFG;Afghanistan;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1689680;1393058;82,45
+COUNTRIES;ALB;Albania;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;29425;27677;94,06
+COUNTRIES;DZA;Algeria;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1090227;871944;79,98
+COUNTRIES;AND;Andorra;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;
+COUNTRIES;AGO;Angola;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1023479;808579;79
+COUNTRIES;AIA;Anguilla;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;169;137;81
+COUNTRIES;ATG;Antigua and Barbuda;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1053;1013;96
+COUNTRIES;ARG;Argentina;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;696196;657230;94
+COUNTRIES;ARM;Armenia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;37216;35461;95
+COUNTRIES;ABW;Aruba;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1248;1206;97
+COUNTRIES;AUS;Australia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;
+COUNTRIES;AUT;Austria;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;
+COUNTRIES;AZE;Azerbaijan;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;137287;131813;96
+COUNTRIES;BHS;Bahamas;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;4102;3659;89
+COUNTRIES;BHR;Bahrain;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;19574;19574;100
+COUNTRIES;BGD;Bangladesh;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;3225508;3722510;115,41
+COUNTRIES;BRB;Barbados;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;2434;2060;85
+COUNTRIES;BLR;Belarus;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;106313;104472;98,3
+COUNTRIES;BEL;Belgium;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;
+COUNTRIES;BLZ;Belize;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;6847;6630;97
+COUNTRIES;BEN;Benin;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;359827;350740;97
+COUNTRIES;BMU;Bermuda;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;587;510;87
+COUNTRIES;BTN;Bhutan;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;11337;11140;98
+COUNTRIES;BOL;Bolivia (Plurinational State of);2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;242227;214557;89
+COUNTRIES;BIH;Bosnia and Herzegovina;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;30184;21610;71,6
+COUNTRIES;BWA;Botswana;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;62953;49890;79
+COUNTRIES;BRA;Brazil;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;2854295;2622197;92
+COUNTRIES;VGB;British Virgin Islands;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;324;306;94
+COUNTRIES;BRN;Brunei Darussalam;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;6236;6163;99
+COUNTRIES;BGR;Bulgaria;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;59782;55521;92,9
+COUNTRIES;BFA;Burkina Faso;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;777145;803019;103,33
+COUNTRIES;BDI;Burundi;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;378062;331609;87,71
+COUNTRIES;CPV;Cabo Verde;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;10496;10427;99,34
+COUNTRIES;KHM;Cambodia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;360033;373867;103,84
+COUNTRIES;CMR;Cameroon;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;861979;611583;70,95
+COUNTRIES;CAN;Canada;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;
+COUNTRIES;CYM;Cayman Islands;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;713;641;90
+COUNTRIES;CAF;Central African Republic;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;159801;115117;72
+COUNTRIES;TCD;Chad;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;721246;504511;69,95
+COUNTRIES;CHL;Chile;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;218918;204353;93
+COUNTRIES;CHN;China;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;17446720;17200967;98,59
+COUNTRIES;HKG;China, Hong Kong SAR;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;
+COUNTRIES;MAC;China, Macao SAR;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;7718;7321;94,9
+COUNTRIES;COL;Colombia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;727193;692174;95
+COUNTRIES;COM;Comoros;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;23328;17159;73,6
+COUNTRIES;COG;Congo;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;218586;164542;75
+COUNTRIES;COK;Cook Islands;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;228;228;100
+COUNTRIES;CRI;Costa Rica;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;69248;65373;94
+COUNTRIES;CIV;Côte d'Ivoire;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;968359;886850;92
+COUNTRIES;HRV;Croatia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;39651;36970;93,2
+COUNTRIES;CUB;Cuba;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;120400;120396;100
+COUNTRIES;CUW;Curaçao;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1878;1678;89
+COUNTRIES;CYP;Cyprus;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;9326;4469;
+COUNTRIES;CZE;Czechia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;96,41
+COUNTRIES;PRK;Democratic People's Republic of Korea;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;335037;328882;98,2
+COUNTRIES;COD;Democratic Republic of the Congo;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;3626556;3324172;91,7
+COUNTRIES;DNK;Denmark;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;62793;59264;94
+COUNTRIES;DJI;Djibouti;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;23716;20346;85,79
+COUNTRIES;DMA;Dominica;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;622;520;84
+COUNTRIES;DOM;Dominican Republic;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;191614;182863;95
+COUNTRIES;ECU;Ecuador;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;332461;276814;83
+COUNTRIES;EGY;Egypt;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;2534617;2392602;94,4
+COUNTRIES;SLV;El Salvador;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;110883;89293;81
+COUNTRIES;GNQ;Equatorial Guinea;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;35237;13819;39
+COUNTRIES;ERI;Eritrea;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;109342;77971;71,3
+COUNTRIES;EST;Estonia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;13388;11630;86,9
+COUNTRIES;SWZ;Eswatini;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;32568;26494;81,3
+COUNTRIES;ETH;Ethiopia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;3023710;2658823;87,93
+COUNTRIES;FJI;Fiji;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;19650;15884;81
+COUNTRIES;FIN;Finland;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;
+COUNTRIES;FRA;France;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;89,6
+COUNTRIES;PYF;French Polynesia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;97,5
+COUNTRIES;GAB;Gabon;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;68592;40687;59
+COUNTRIES;GMB;Gambia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;82127;74547;90,77
+COUNTRIES;GEO;Georgia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;51060;50203;98
+COUNTRIES;DEU;Germany;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;635696;617469;97,1
+COUNTRIES;GHA;Ghana;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1154946,195;1094228;94,74
+COUNTRIES;GRC;Greece;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;
+COUNTRIES;GRD;Grenada;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1587;1337;84
+COUNTRIES;GUM;Guam;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;
+COUNTRIES;GTM;Guatemala;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;381396;340314;89
+COUNTRIES;GIN;Guinea;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;435746;429812;99
+COUNTRIES;GNB;Guinea-Bissau;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;65031;51641;79
+COUNTRIES;GUY;Guyana;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;15654;15354;98
+COUNTRIES;HTI;Haiti;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;255618;224892;87,98
+COUNTRIES;HND;Honduras;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;194037;176632;91
+COUNTRIES;HUN;Hungary;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;91351;91244;99,9
+COUNTRIES;ISL;Iceland;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;4260;3956;93
+COUNTRIES;IND;India;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;23078137;23016450;99,73
+COUNTRIES;IDN;Indonesia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;4720024;4340125;91,95
+COUNTRIES;IRN;Iran (Islamic Republic of);2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1451220;1469925;101,29
+COUNTRIES;IRQ;Iraq;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1097700;926682;85
+COUNTRIES;IRL;Ireland;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;57450;53048;92,34
+COUNTRIES;ISR;Israel;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;129089;98,4
+COUNTRIES;ITA;Italy;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;466140;434549;93,22
+COUNTRIES;JAM;Jamaica;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;36160;32094;89
+COUNTRIES;JPN;Japan;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1024492;995588;97,18
+COUNTRIES;JOR;Jordan;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;198656;183159;92
+COUNTRIES;KAZ;Kazakhstan;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;344035;342429;99,5
+COUNTRIES;KEN;Kenya;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1593114,7;1258434;78,99
+COUNTRIES;KIR;Kiribati;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;3180;2669;84
+COUNTRIES;KWT;Kuwait;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;56981;56166;98
+COUNTRIES;KGZ;Kyrgyzstan;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;152112;146399;96,2
+COUNTRIES;LAO;Lao People's Democratic Republic;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;156960;143997;92
+COUNTRIES;LVA;Latvia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;21356;20887;98
+COUNTRIES;LBN;Lebanon;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;138551;127744;92,2
+COUNTRIES;LSO;Lesotho;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;38114;23089;61
+COUNTRIES;LBR;Liberia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;173688;157311;91
+COUNTRIES;LBY;Libya;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;265326;255210;96,2
+COUNTRIES;LTU;Lithuania;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;29352;27047;92,2
+COUNTRIES;LUX;Luxembourg;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;
+COUNTRIES;MDG;Madagascar;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;876810;745833;85
+COUNTRIES;MWI;Malawi;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;724502;632972;87
+COUNTRIES;MYS;Malaysia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;508685;496312;97,57
+COUNTRIES;MDV;Maldives;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;6504;6483;99,68
+COUNTRIES;MLI;Mali;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;778379;757124;97
+COUNTRIES;MLT;Malta;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;4756;4540;95,5
+COUNTRIES;MHL;Marshall Islands;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1615;1339;82,91
+COUNTRIES;MRT;Mauritania;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;142137;110855;78
+COUNTRIES;MUS;Mauritius;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;12784;11936;93,4
+COUNTRIES;MEX;Mexico;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;2204730;2129896;97
+COUNTRIES;FSM;Micronesia (Federated States of);2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;4599;3369;73
+COUNTRIES;MCO;Monaco;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;
+COUNTRIES;MNG;Mongolia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;71960;71041;98,72
+COUNTRIES;MNE;Montenegro;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;7574;3186;42,1
+COUNTRIES;MSR;Montserrat;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;53;51;96
+COUNTRIES;MAR;Morocco;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;654141;671518;100
+COUNTRIES;MOZ;Mozambique;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1001157;1151378;115
+COUNTRIES;MMR;Myanmar;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;950560;884649;93,07
+COUNTRIES;NAM;Namibia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;82977;67909;82
+COUNTRIES;NRU;Nauru;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;350;335;95,71
+COUNTRIES;NPL;Nepal;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;623394;506764;81,29
+COUNTRIES;NLD;Netherlands (Kingdom of the);2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;173884;161541;92,9
+COUNTRIES;NCL;New Caledonia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;4059;;
+COUNTRIES;NZL;New Zealand;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;61915;56878;91,86
+COUNTRIES;NIC;Nicaragua;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;134266;151623;113
+COUNTRIES;NER;Niger;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;930965;923292;99
+COUNTRIES;NGA;Nigeria;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;7565078;6599293;87,23
+COUNTRIES;NIU;Niue;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;26;27;103
+COUNTRIES;MKD;North Macedonia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;23629;17670;74,78
+COUNTRIES;MNP;Northern Mariana Islands;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1259;;
+COUNTRIES;NOR;Norway;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;60358;;96
+COUNTRIES;PSE;occupied Palestinian territory, including east Jerusalem;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;137006;137129;100,09
+COUNTRIES;OMN;Oman;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;87677;87677;100
+COUNTRIES;PAK;Pakistan;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;6557146;5420380;83
+COUNTRIES;PLW;Palau;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;328;297;90
+COUNTRIES;PAN;Panama;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;74116;78188;105
+COUNTRIES;PNG;Papua New Guinea;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;271531;101538;37
+COUNTRIES;PRY;Paraguay;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;141218;114089;81
+COUNTRIES;PER;Peru;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;553277;540238;97,64
+COUNTRIES;PHL;Philippines;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;2866558;1919535;66,96
+COUNTRIES;POL;Poland;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;378311;351587;92,9
+COUNTRIES;PRT;Portugal;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;
+COUNTRIES;QAT;Qatar;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;27856;27838;99
+COUNTRIES;KOR;Republic of Korea;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;411000;401118;97,6
+COUNTRIES;MDA;Republic of Moldova;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;38735;35996;92,93
+COUNTRIES;ROU;Romania;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;173871;80848;46,5
+COUNTRIES;RUS;Russian Federation;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1766713;1723774;97,56
+COUNTRIES;RWA;Rwanda;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;357822;352573;98,53
+COUNTRIES;KNA;Saint Kitts and Nevis;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;708;683;96
+COUNTRIES;LCA;Saint Lucia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;2006;1728;86
+COUNTRIES;VCT;Saint Vincent and the Grenadines;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1545;1562;101
+COUNTRIES;WSM;Samoa;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;5773;2330;40
+COUNTRIES;SMR;San Marino;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;271;242;89,3
+COUNTRIES;STP;Sao Tome and Principe;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;5448;5152;95
+COUNTRIES;SAU;Saudi Arabia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;552911;541853;98
+COUNTRIES;SEN;Senegal;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;548839;455086;82,92
+COUNTRIES;SRB;Serbia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;64175;59911;93,4
+COUNTRIES;SYC;Seychelles;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1651;1557;96
+COUNTRIES;SLE;Sierra Leone;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;230557;225615;97,86
+COUNTRIES;SGP;Singapore;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;33729;31882;96,6
+COUNTRIES;SXM;Sint Maarten (Dutch part);2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;411;370;90
+COUNTRIES;SVK;Slovakia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;55777;53594;96,1
+COUNTRIES;SVN;Slovenia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;
+COUNTRIES;SLB;Solomon Islands;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;16589;15464;93,22
+COUNTRIES;SOM;Somalia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;588110;414351;70
+COUNTRIES;ZAF;South Africa;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1148881;938194;81,66
+COUNTRIES;SSD;South Sudan;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;466745;276021;59,14
+COUNTRIES;ESP;Spain;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;410862;402137;97,88
+COUNTRIES;LKA;Sri Lanka;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;327116;317014;97
+COUNTRIES;SDN;Sudan;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1548415;1392994;87,9
+COUNTRIES;SUR;Suriname;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;9484;9251;98
+COUNTRIES;SWE;Sweden;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;
+COUNTRIES;CHE;Switzerland;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;95,5
+COUNTRIES;SYR;Syrian Arab Republic;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;524578;420483;80
+COUNTRIES;TJK;Tajikistan;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;239122;233951;97,8
+COUNTRIES;THA;Thailand;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;421063;376388;89,39
+COUNTRIES;TLS;Timor-Leste;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;45040;32926;73
+COUNTRIES;TGO;Togo;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;308775;263399;85,3
+COUNTRIES;TKL;Tokelau;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;26;26;100
+COUNTRIES;TON;Tonga;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;
+COUNTRIES;TTO;Trinidad and Tobago;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;16593;14930;90
+COUNTRIES;TUN;Tunisia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;208080;185623;89,21
+COUNTRIES;TUR;Türkiye;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1283570;1233216;96
+COUNTRIES;TKM;Turkmenistan;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;98,6
+COUNTRIES;TCA;Turks and Caicos Islands;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;638;588;92
+COUNTRIES;TUV;Tuvalu;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;280;247;88,2
+COUNTRIES;UGA;Uganda;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1669393;1439971;86,26
+COUNTRIES;UKR;Ukraine;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;344126;313128;91
+COUNTRIES;ARE;United Arab Emirates;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;53193;53193;100
+COUNTRIES;GBR;United Kingdom of Great Britain and Northern Ireland;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;786797;721207;92
+COUNTRIES;TZA;United Republic of Tanzania;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;2013744;2019348;100,28
+COUNTRIES;USA;United States of America;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;;;
+COUNTRIES;URY;Uruguay;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;43036;41728;97
+COUNTRIES;UZB;Uzbekistan;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;714713;683184;95,6
+COUNTRIES;VUT;Vanuatu;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;8545;6611;77
+COUNTRIES;VEN;Venezuela (Bolivarian Republic of);2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;539405;398896;74
+COUNTRIES;VNM;Viet Nam;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1670313;1623360;97,19
+COUNTRIES;WLF;Wallis and Futuna;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;126;160;
+COUNTRIES;YEM;Yemen;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;1013963;731064;72,1
+COUNTRIES;ZMB;Zambia;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;675509;634999;94
+COUNTRIES;ZWE;Zimbabwe;2018;MCV1;Measles-containing vaccine, 1st dose;ADMIN;Administrative coverage;454978;389528;85,61
+COUNTRIES;AFG;Afghanistan;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;82
+COUNTRIES;ALB;Albania;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;94,1
+COUNTRIES;DZA;Algeria;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;80
+COUNTRIES;AND;Andorra;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;99,22
+COUNTRIES;AGO;Angola;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;79
+COUNTRIES;AIA;Anguilla;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;81
+COUNTRIES;ATG;Antigua and Barbuda;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;ARG;Argentina;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;94
+COUNTRIES;ARM;Armenia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;ABW;Aruba;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;AUS;Australia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;
+COUNTRIES;AUT;Austria;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;93,5
+COUNTRIES;AZE;Azerbaijan;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;BHS;Bahamas;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;89
+COUNTRIES;BHR;Bahrain;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;BGD;Bangladesh;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;92
+COUNTRIES;BRB;Barbados;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;85
+COUNTRIES;BLR;Belarus;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;98,3
+COUNTRIES;BEL;Belgium;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;95,7
+COUNTRIES;BLZ;Belize;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;BEN;Benin;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;74
+COUNTRIES;BMU;Bermuda;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;87
+COUNTRIES;BTN;Bhutan;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;BOL;Bolivia (Plurinational State of);2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;89
+COUNTRIES;BIH;Bosnia and Herzegovina;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;68,4
+COUNTRIES;BWA;Botswana;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;93
+COUNTRIES;BRA;Brazil;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;92
+COUNTRIES;VGB;British Virgin Islands;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;94
+COUNTRIES;BRN;Brunei Darussalam;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;99
+COUNTRIES;BGR;Bulgaria;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;92,9
+COUNTRIES;BFA;Burkina Faso;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;88
+COUNTRIES;BDI;Burundi;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;88
+COUNTRIES;CPV;Cabo Verde;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;99,34
+COUNTRIES;KHM;Cambodia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;
+COUNTRIES;CMR;Cameroon;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;61
+COUNTRIES;CAN;Canada;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;90,2
+COUNTRIES;CYM;Cayman Islands;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;90
+COUNTRIES;CAF;Central African Republic;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;72
+COUNTRIES;TCD;Chad;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;70
+COUNTRIES;CHL;Chile;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;93
+COUNTRIES;CHN;China;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;
+COUNTRIES;HKG;China, Hong Kong SAR;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;MAC;China, Macao SAR;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;94,9
+COUNTRIES;COL;Colombia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;COM;Comoros;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;90
+COUNTRIES;COG;Congo;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;83
+COUNTRIES;COK;Cook Islands;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;CRI;Costa Rica;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;94
+COUNTRIES;CIV;Côte d'Ivoire;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;92
+COUNTRIES;HRV;Croatia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;93,2
+COUNTRIES;CUB;Cuba;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;CUW;Curaçao;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;89
+COUNTRIES;CYP;Cyprus;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;90,2
+COUNTRIES;CZE;Czechia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;96,41
+COUNTRIES;PRK;Democratic People's Republic of Korea;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;98,2
+COUNTRIES;COD;Democratic Republic of the Congo;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;64
+COUNTRIES;DNK;Denmark;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;95,2
+COUNTRIES;DJI;Djibouti;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;85,79
+COUNTRIES;DMA;Dominica;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;84
+COUNTRIES;DOM;Dominican Republic;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;ECU;Ecuador;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;83
+COUNTRIES;EGY;Egypt;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;94,4
+COUNTRIES;SLV;El Salvador;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;81
+COUNTRIES;GNQ;Equatorial Guinea;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;39
+COUNTRIES;ERI;Eritrea;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;93
+COUNTRIES;EST;Estonia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;86,9
+COUNTRIES;SWZ;Eswatini;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;82
+COUNTRIES;ETH;Ethiopia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;88
+COUNTRIES;FJI;Fiji;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;81
+COUNTRIES;FIN;Finland;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;96,2
+COUNTRIES;FRA;France;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;89,6
+COUNTRIES;PYF;French Polynesia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;GAB;Gabon;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;59
+COUNTRIES;GMB;Gambia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;GEO;Georgia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;98
+COUNTRIES;DEU;Germany;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97,1
+COUNTRIES;GHA;Ghana;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;92
+COUNTRIES;GRC;Greece;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97,3
+COUNTRIES;GRD;Grenada;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;84
+COUNTRIES;GUM;Guam;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;82,5
+COUNTRIES;GTM;Guatemala;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;89
+COUNTRIES;GIN;Guinea;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;75
+COUNTRIES;GNB;Guinea-Bissau;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;79
+COUNTRIES;GUY;Guyana;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;98
+COUNTRIES;HTI;Haiti;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;87,98
+COUNTRIES;HND;Honduras;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;HUN;Hungary;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;
+COUNTRIES;ISL;Iceland;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;93
+COUNTRIES;IND;India;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;IDN;Indonesia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;84,65
+COUNTRIES;IRN;Iran (Islamic Republic of);2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;99
+COUNTRIES;IRQ;Iraq;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;85
+COUNTRIES;IRL;Ireland;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;92,34
+COUNTRIES;ISR;Israel;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;98,4
+COUNTRIES;ITA;Italy;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;
+COUNTRIES;JAM;Jamaica;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;89
+COUNTRIES;JPN;Japan;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97,18
+COUNTRIES;JOR;Jordan;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;92
+COUNTRIES;KAZ;Kazakhstan;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;99
+COUNTRIES;KEN;Kenya;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;79
+COUNTRIES;KIR;Kiribati;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;84
+COUNTRIES;KWT;Kuwait;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;98
+COUNTRIES;KGZ;Kyrgyzstan;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;96,2
+COUNTRIES;LAO;Lao People's Democratic Republic;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;92
+COUNTRIES;LVA;Latvia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;98
+COUNTRIES;LBN;Lebanon;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;92
+COUNTRIES;LSO;Lesotho;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;61
+COUNTRIES;LBR;Liberia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;LBY;Libya;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;LTU;Lithuania;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;92,2
+COUNTRIES;LUX;Luxembourg;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;98,7
+COUNTRIES;MDG;Madagascar;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;85
+COUNTRIES;MWI;Malawi;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;87
+COUNTRIES;MYS;Malaysia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;
+COUNTRIES;MDV;Maldives;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;99,7
+COUNTRIES;MLI;Mali;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;72
+COUNTRIES;MLT;Malta;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;MHL;Marshall Islands;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;83
+COUNTRIES;MRT;Mauritania;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;85,93
+COUNTRIES;MUS;Mauritius;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;99
+COUNTRIES;MEX;Mexico;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;FSM;Micronesia (Federated States of);2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;73
+COUNTRIES;MCO;Monaco;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;88
+COUNTRIES;MNG;Mongolia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;98,7
+COUNTRIES;MNE;Montenegro;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;42,1
+COUNTRIES;MSR;Montserrat;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;MAR;Morocco;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;MOZ;Mozambique;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;MMR;Myanmar;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;93
+COUNTRIES;NAM;Namibia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;86
+COUNTRIES;NRU;Nauru;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;NPL;Nepal;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;NLD;Netherlands (Kingdom of the);2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;92,9
+COUNTRIES;NCL;New Caledonia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97,4
+COUNTRIES;NZL;New Zealand;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;91,86
+COUNTRIES;NIC;Nicaragua;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;113
+COUNTRIES;NER;Niger;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;77
+COUNTRIES;NGA;Nigeria;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;62,6
+COUNTRIES;NIU;Niue;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;MKD;North Macedonia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;74,8
+COUNTRIES;MNP;Northern Mariana Islands;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;73
+COUNTRIES;NOR;Norway;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;PSE;occupied Palestinian territory, including east Jerusalem;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;OMN;Oman;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;PAK;Pakistan;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;66
+COUNTRIES;PLW;Palau;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;90
+COUNTRIES;PAN;Panama;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;105
+COUNTRIES;PNG;Papua New Guinea;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;42
+COUNTRIES;PRY;Paraguay;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;81
+COUNTRIES;PER;Peru;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97,54
+COUNTRIES;PHL;Philippines;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;67
+COUNTRIES;POL;Poland;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;92,9
+COUNTRIES;PRT;Portugal;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;98,8
+COUNTRIES;QAT;Qatar;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;99
+COUNTRIES;KOR;Republic of Korea;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97,8
+COUNTRIES;MDA;Republic of Moldova;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;93
+COUNTRIES;ROU;Romania;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;89,6
+COUNTRIES;RUS;Russian Federation;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97,56
+COUNTRIES;RWA;Rwanda;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;99
+COUNTRIES;KNA;Saint Kitts and Nevis;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;LCA;Saint Lucia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;86
+COUNTRIES;VCT;Saint Vincent and the Grenadines;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;101
+COUNTRIES;WSM;Samoa;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;40
+COUNTRIES;SMR;San Marino;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;89
+COUNTRIES;STP;Sao Tome and Principe;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;SAU;Saudi Arabia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;98
+COUNTRIES;SEN;Senegal;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;82
+COUNTRIES;SRB;Serbia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;92,5
+COUNTRIES;SYC;Seychelles;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;SLE;Sierra Leone;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;90
+COUNTRIES;SGP;Singapore;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;SXM;Sint Maarten (Dutch part);2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;90
+COUNTRIES;SVK;Slovakia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;96,1
+COUNTRIES;SVN;Slovenia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;93,1
+COUNTRIES;SLB;Solomon Islands;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;93
+COUNTRIES;SOM;Somalia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;53
+COUNTRIES;ZAF;South Africa;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;80,65
+COUNTRIES;SSD;South Sudan;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;48,7
+COUNTRIES;ESP;Spain;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97,88
+COUNTRIES;LKA;Sri Lanka;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;99
+COUNTRIES;SDN;Sudan;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;87,9
+COUNTRIES;SUR;Suriname;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;98
+COUNTRIES;SWE;Sweden;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;CHE;Switzerland;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;SYR;Syrian Arab Republic;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;80
+COUNTRIES;TJK;Tajikistan;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97,8
+COUNTRIES;THA;Thailand;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;96,09
+COUNTRIES;TLS;Timor-Leste;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;77,3
+COUNTRIES;TGO;Togo;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;85
+COUNTRIES;TKL;Tokelau;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;
+COUNTRIES;TON;Tonga;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;99
+COUNTRIES;TTO;Trinidad and Tobago;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;90
+COUNTRIES;TUN;Tunisia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;TUR;Türkiye;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;TKM;Turkmenistan;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;98,6
+COUNTRIES;TCA;Turks and Caicos Islands;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;92
+COUNTRIES;TUV;Tuvalu;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;88,2
+COUNTRIES;UGA;Uganda;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;80
+COUNTRIES;UKR;Ukraine;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;ARE;United Arab Emirates;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;GBR;United Kingdom of Great Britain and Northern Ireland;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;92
+COUNTRIES;TZA;United Republic of Tanzania;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;99
+COUNTRIES;USA;United States of America;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;91,5
+COUNTRIES;URY;Uruguay;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;UZB;Uzbekistan;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;VUT;Vanuatu;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;75
+COUNTRIES;VEN;Venezuela (Bolivarian Republic of);2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;74
+COUNTRIES;VNM;Viet Nam;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;
+COUNTRIES;WLF;Wallis and Futuna;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;
+COUNTRIES;YEM;Yemen;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;72
+COUNTRIES;ZMB;Zambia;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;94
+COUNTRIES;ZWE;Zimbabwe;2018;MCV1;Measles-containing vaccine, 1st dose;OFFICIAL;Official coverage;;;88
+COUNTRIES;AFG;Afghanistan;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;66
+COUNTRIES;ALB;Albania;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;94
+COUNTRIES;DZA;Algeria;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;80
+COUNTRIES;AND;Andorra;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;AGO;Angola;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;50
+COUNTRIES;ATG;Antigua and Barbuda;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;ARG;Argentina;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;94
+COUNTRIES;ARM;Armenia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;AUS;Australia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;94
+COUNTRIES;AUT;Austria;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;94
+COUNTRIES;AZE;Azerbaijan;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;BHS;Bahamas;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;89
+COUNTRIES;BHR;Bahrain;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;BGD;Bangladesh;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;BRB;Barbados;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;85
+COUNTRIES;BLR;Belarus;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;BEL;Belgium;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;BLZ;Belize;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;BEN;Benin;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;61
+COUNTRIES;BTN;Bhutan;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;BOL;Bolivia (Plurinational State of);2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;89
+COUNTRIES;BIH;Bosnia and Herzegovina;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;68
+COUNTRIES;BWA;Botswana;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;BRA;Brazil;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;BRN;Brunei Darussalam;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;BGR;Bulgaria;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;BFA;Burkina Faso;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;88
+COUNTRIES;BDI;Burundi;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;88
+COUNTRIES;CPV;Cabo Verde;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;KHM;Cambodia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;86
+COUNTRIES;CMR;Cameroon;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;61
+COUNTRIES;CAN;Canada;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;90
+COUNTRIES;CAF;Central African Republic;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;41
+COUNTRIES;TCD;Chad;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;41
+COUNTRIES;CHL;Chile;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;CHN;China;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;COL;Colombia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;COM;Comoros;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;74
+COUNTRIES;COG;Congo;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;75
+COUNTRIES;COK;Cook Islands;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;CRI;Costa Rica;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;94
+COUNTRIES;CIV;Côte d'Ivoire;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;74
+COUNTRIES;HRV;Croatia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;CUB;Cuba;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;CYP;Cyprus;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;90
+COUNTRIES;CZE;Czechia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;PRK;Democratic People's Republic of Korea;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;COD;Democratic Republic of the Congo;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;64
+COUNTRIES;DNK;Denmark;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;DJI;Djibouti;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;86
+COUNTRIES;DMA;Dominica;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;84
+COUNTRIES;DOM;Dominican Republic;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;ECU;Ecuador;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;83
+COUNTRIES;EGY;Egypt;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;94
+COUNTRIES;SLV;El Salvador;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;87
+COUNTRIES;GNQ;Equatorial Guinea;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;52
+COUNTRIES;ERI;Eritrea;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;EST;Estonia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;87
+COUNTRIES;SWZ;Eswatini;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;85
+COUNTRIES;ETH;Ethiopia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;54
+COUNTRIES;FJI;Fiji;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;FIN;Finland;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;FRA;France;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;90
+COUNTRIES;GAB;Gabon;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;59
+COUNTRIES;GMB;Gambia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;GEO;Georgia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;DEU;Germany;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;GHA;Ghana;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;GRC;Greece;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;GRD;Grenada;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;84
+COUNTRIES;GTM;Guatemala;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;89
+COUNTRIES;GIN;Guinea;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;47
+COUNTRIES;GNB;Guinea-Bissau;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;79
+COUNTRIES;GUY;Guyana;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;HTI;Haiti;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;69
+COUNTRIES;HND;Honduras;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;HUN;Hungary;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;ISL;Iceland;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;IND;India;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;IDN;Indonesia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;89
+COUNTRIES;IRN;Iran (Islamic Republic of);2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;IRQ;Iraq;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;85
+COUNTRIES;IRL;Ireland;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;ISR;Israel;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;ITA;Italy;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;JAM;Jamaica;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;89
+COUNTRIES;JPN;Japan;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;JOR;Jordan;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;KAZ;Kazakhstan;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;KEN;Kenya;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;KIR;Kiribati;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;84
+COUNTRIES;KWT;Kuwait;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;KGZ;Kyrgyzstan;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;LAO;Lao People's Democratic Republic;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;86
+COUNTRIES;LVA;Latvia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;LBN;Lebanon;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;81
+COUNTRIES;LSO;Lesotho;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;90
+COUNTRIES;LBR;Liberia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;74
+COUNTRIES;LBY;Libya;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;73
+COUNTRIES;LTU;Lithuania;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;LUX;Luxembourg;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;MDG;Madagascar;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;68
+COUNTRIES;MWI;Malawi;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;87
+COUNTRIES;MYS;Malaysia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;MDV;Maldives;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;MLI;Mali;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;71
+COUNTRIES;MLT;Malta;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;MHL;Marshall Islands;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;83
+COUNTRIES;MRT;Mauritania;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;78
+COUNTRIES;MUS;Mauritius;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;MEX;Mexico;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;FSM;Micronesia (Federated States of);2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;73
+COUNTRIES;MCO;Monaco;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;88
+COUNTRIES;MNG;Mongolia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;MNE;Montenegro;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;42
+COUNTRIES;MAR;Morocco;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;MOZ;Mozambique;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;83
+COUNTRIES;MMR;Myanmar;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;NAM;Namibia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;82
+COUNTRIES;NRU;Nauru;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;NPL;Nepal;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;NLD;Netherlands (Kingdom of the);2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;NZL;New Zealand;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;NIC;Nicaragua;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;NER;Niger;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;77
+COUNTRIES;NGA;Nigeria;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;56
+COUNTRIES;NIU;Niue;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;MKD;North Macedonia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;75
+COUNTRIES;NOR;Norway;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;PSE;occupied Palestinian territory, including east Jerusalem;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;OMN;Oman;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;PAK;Pakistan;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;79
+COUNTRIES;PLW;Palau;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;90
+COUNTRIES;PAN;Panama;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;PNG;Papua New Guinea;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;37
+COUNTRIES;PRY;Paraguay;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;PER;Peru;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;86
+COUNTRIES;PHL;Philippines;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;82
+COUNTRIES;POL;Poland;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;PRT;Portugal;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;QAT;Qatar;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;KOR;Republic of Korea;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;MDA;Republic of Moldova;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;ROU;Romania;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;90
+COUNTRIES;RUS;Russian Federation;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;RWA;Rwanda;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;KNA;Saint Kitts and Nevis;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;LCA;Saint Lucia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;86
+COUNTRIES;VCT;Saint Vincent and the Grenadines;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;WSM;Samoa;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;40
+COUNTRIES;SMR;San Marino;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;89
+COUNTRIES;STP;Sao Tome and Principe;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;SAU;Saudi Arabia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;SEN;Senegal;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;86
+COUNTRIES;SRB;Serbia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;SYC;Seychelles;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;SLE;Sierra Leone;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;87
+COUNTRIES;SGP;Singapore;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;SVK;Slovakia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;SVN;Slovenia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;SLB;Solomon Islands;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;SOM;Somalia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;46
+COUNTRIES;ZAF;South Africa;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;81
+COUNTRIES;SSD;South Sudan;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;61
+COUNTRIES;ESP;Spain;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;LKA;Sri Lanka;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;SDN;Sudan;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;88
+COUNTRIES;SUR;Suriname;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;77
+COUNTRIES;SWE;Sweden;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;CHE;Switzerland;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;SYR;Syrian Arab Republic;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;74
+COUNTRIES;TJK;Tajikistan;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;THA;Thailand;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;TLS;Timor-Leste;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;77
+COUNTRIES;TGO;Togo;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;71
+COUNTRIES;TON;Tonga;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;TTO;Trinidad and Tobago;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;90
+COUNTRIES;TUN;Tunisia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;TUR;Türkiye;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;TKM;Turkmenistan;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;TUV;Tuvalu;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;88
+COUNTRIES;UGA;Uganda;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;86
+COUNTRIES;UKR;Ukraine;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;ARE;United Arab Emirates;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;GBR;United Kingdom of Great Britain and Northern Ireland;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;TZA;United Republic of Tanzania;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;88
+COUNTRIES;USA;United States of America;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;URY;Uruguay;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;UZB;Uzbekistan;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;VUT;Vanuatu;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;75
+COUNTRIES;VEN;Venezuela (Bolivarian Republic of);2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;74
+COUNTRIES;VNM;Viet Nam;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;YEM;Yemen;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;53
+COUNTRIES;ZMB;Zambia;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;94
+COUNTRIES;ZWE;Zimbabwe;2018;MCV1;Measles-containing vaccine, 1st dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;88
+Exported: 2025-4-6 11:1 UTC;;;;;;;;;;

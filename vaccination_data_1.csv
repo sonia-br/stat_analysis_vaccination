@@ -1,0 +1,621 @@
+﻿GROUP;CODE;NAME;YEAR;ANTIGEN;ANTIGEN_DESCRIPTION;COVERAGE_CATEGORY;COVERAGE_CATEGORY_DESCRIPTION;TARGET_NUMBER;DOSES;COVERAGE
+COUNTRIES;AFG;Afghanistan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1689680;1467023;86,82
+COUNTRIES;ALB;Albania;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;29425;29066;98,78
+COUNTRIES;DZA;Algeria;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1090227;992791;91,06
+COUNTRIES;AND;Andorra;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;
+COUNTRIES;AGO;Angola;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1023479;858271;84
+COUNTRIES;AIA;Anguilla;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;158;143;91
+COUNTRIES;ATG;Antigua and Barbuda;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1045;995;95
+COUNTRIES;ARG;Argentina;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;692893;593292;86
+COUNTRIES;ARM;Armenia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;34929;32303;92
+COUNTRIES;ABW;Aruba;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1243;1195;96
+COUNTRIES;AUS;Australia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;302881;286543;94,61
+COUNTRIES;AUT;Austria;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;
+COUNTRIES;AZE;Azerbaijan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;133635;126617;94,7
+COUNTRIES;BHS;Bahamas;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;4098;3695;90
+COUNTRIES;BHR;Bahrain;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;19574;19574;100
+COUNTRIES;BGD;Bangladesh;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;3225508;3686023;114,28
+COUNTRIES;BRB;Barbados;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;2384;2257;95
+COUNTRIES;BLR;Belarus;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;95059;92317;97,1
+COUNTRIES;BEL;Belgium;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;
+COUNTRIES;BLZ;Belize;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;7020;6726;96
+COUNTRIES;BEN;Benin;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;359827;386102;107
+COUNTRIES;BMU;Bermuda;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;529;501;95
+COUNTRIES;BTN;Bhutan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;11337;11006;97
+COUNTRIES;BOL;Bolivia (Plurinational State of);2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;242815;201807;83
+COUNTRIES;BIH;Bosnia and Herzegovina;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;29951;23712;79,2
+COUNTRIES;BWA;Botswana;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;62953;49555;79
+COUNTRIES;BRA;Brazil;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;2854295;2492050;87
+COUNTRIES;VGB;British Virgin Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;308;284;92
+COUNTRIES;BRN;Brunei Darussalam;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;6236;6219;100
+COUNTRIES;BGR;Bulgaria;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;60387;55282;91,5
+COUNTRIES;BFA;Burkina Faso;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;777145;813276;104,65
+COUNTRIES;BDI;Burundi;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;378062;345667;91,43
+COUNTRIES;CPV;Cabo Verde;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;10498;10236;97,5
+COUNTRIES;KHM;Cambodia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;360033;353806;98,27
+COUNTRIES;CMR;Cameroon;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;861979;681976;79,12
+COUNTRIES;CAN;Canada;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;
+COUNTRIES;CYM;Cayman Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;732;682;93
+COUNTRIES;CAF;Central African Republic;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;159801;118376;74
+COUNTRIES;TCD;Chad;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;721246;552601;76,62
+COUNTRIES;CHL;Chile;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;219367;207832;95
+COUNTRIES;CHN;China;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;16321146;16181337;99,14
+COUNTRIES;HKG;China, Hong Kong SAR;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;
+COUNTRIES;MAC;China, Macao SAR;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;6977;6617;94,8
+COUNTRIES;COL;Colombia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;713694;659862;92
+COUNTRIES;COM;Comoros;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;23328;17918;76,8
+COUNTRIES;COG;Congo;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;218586;163531;75
+COUNTRIES;COK;Cook Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;228;228;100
+COUNTRIES;CRI;Costa Rica;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;67876;64597;95,17
+COUNTRIES;CIV;Côte d'Ivoire;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;968359;925178;96
+COUNTRIES;HRV;Croatia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;37634;35126;93,3
+COUNTRIES;CUB;Cuba;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;121035;120390;99
+COUNTRIES;CUW;Curaçao;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1786;1636;92
+COUNTRIES;CYP;Cyprus;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;9326;11832;
+COUNTRIES;CZE;Czechia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;
+COUNTRIES;PRK;Democratic People's Republic of Korea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;335037;325336;97,1
+COUNTRIES;COD;Democratic Republic of the Congo;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;3626556;3412759;94,1
+COUNTRIES;DNK;Denmark;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;62793;60103;96
+COUNTRIES;DJI;Djibouti;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;23716;19910;83,95
+COUNTRIES;DMA;Dominica;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;631;593;94
+COUNTRIES;DOM;Dominican Republic;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;191686;179342;94
+COUNTRIES;ECU;Ecuador;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;332505;283346;85
+COUNTRIES;EGY;Egypt;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;2470443;2344275;94,9
+COUNTRIES;SLV;El Salvador;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;110734;89852;81
+COUNTRIES;GNQ;Equatorial Guinea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;35237;16126;46
+COUNTRIES;ERI;Eritrea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;109342;85307;78
+COUNTRIES;EST;Estonia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;13388;12301;91,9
+COUNTRIES;SWZ;Eswatini;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;32568;28351;87
+COUNTRIES;ETH;Ethiopia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;3023710;2871011;94,95
+COUNTRIES;FJI;Fiji;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;19582;16716;85,3
+COUNTRIES;FIN;Finland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;
+COUNTRIES;FRA;France;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;96,3
+COUNTRIES;PYF;French Polynesia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;99,7
+COUNTRIES;GAB;Gabon;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;68592;48314;70
+COUNTRIES;GMB;Gambia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;82127;76366;92,99
+COUNTRIES;GEO;Georgia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;49145;45515;93
+COUNTRIES;DEU;Germany;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;
+COUNTRIES;GHA;Ghana;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1154946,195;1153978;99,92
+COUNTRIES;GRC;Greece;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;
+COUNTRIES;GRD;Grenada;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1386;1321;95
+COUNTRIES;GUM;Guam;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;
+COUNTRIES;GTM;Guatemala;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;382841;327064;85
+COUNTRIES;GIN;Guinea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;435746;435465;100
+COUNTRIES;GNB;Guinea-Bissau;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;65031;53474;82
+COUNTRIES;GUY;Guyana;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;15313;14578;95
+COUNTRIES;HTI;Haiti;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;255618;240852;94,22
+COUNTRIES;HND;Honduras;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;195809;177939;91
+COUNTRIES;HUN;Hungary;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;89799;89675;99,9
+COUNTRIES;ISL;Iceland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;4127;3739;91
+COUNTRIES;IND;India;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;23078137;22842294;98,98
+COUNTRIES;IDN;Indonesia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;4720024;4372606;92,64
+COUNTRIES;IRN;Iran (Islamic Republic of);2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1451220;1446336;99,66
+COUNTRIES;IRQ;Iraq;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1097700;937015;86
+COUNTRIES;IRL;Ireland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;57508;54326;94,47
+COUNTRIES;ISR;Israel;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;127996;97,6
+COUNTRIES;ITA;Italy;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;466140;443181;95,07
+COUNTRIES;JAM;Jamaica;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;34426;33548;97
+COUNTRIES;JPN;Japan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;990750;1000466;100,98
+COUNTRIES;JOR;Jordan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;198656;190053;96
+COUNTRIES;KAZ;Kazakhstan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;351318;345170;98,2
+COUNTRIES;KEN;Kenya;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1593114,7;1297817;81,46
+COUNTRIES;KIR;Kiribati;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;3180;3014;94,78
+COUNTRIES;KWT;Kuwait;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;55722;52371;91,9
+COUNTRIES;KGZ;Kyrgyzstan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;147338;139116;94,4
+COUNTRIES;LAO;Lao People's Democratic Republic;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;156960;152401;97
+COUNTRIES;LVA;Latvia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;20164;19317;96
+COUNTRIES;LBN;Lebanon;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;138551;130113;93,91
+COUNTRIES;LSO;Lesotho;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;38114;31740;83
+COUNTRIES;LBR;Liberia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;173688;168772;97
+COUNTRIES;LBY;Libya;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;265326;257643;97,1
+COUNTRIES;LTU;Lithuania;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;27798;25661;92,3
+COUNTRIES;LUX;Luxembourg;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;
+COUNTRIES;MDG;Madagascar;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;876810;801623;91
+COUNTRIES;MWI;Malawi;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;724502;665796;92
+COUNTRIES;MYS;Malaysia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;508685;509789;100,22
+COUNTRIES;MDV;Maldives;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;6609;6520;98,65
+COUNTRIES;MLI;Mali;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;778379;743644;96
+COUNTRIES;MLT;Malta;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;4517;4381;97
+COUNTRIES;MHL;Marshall Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;977;22;2,25
+COUNTRIES;MRT;Mauritania;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;142137;120276;85
+COUNTRIES;MUS;Mauritius;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;12784;11026;86,2
+COUNTRIES;MEX;Mexico;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;2207476;1949130;88
+COUNTRIES;FSM;Micronesia (Federated States of);2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;4599;3450;75
+COUNTRIES;MCO;Monaco;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;
+COUNTRIES;MNG;Mongolia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;74031;72965;98,56
+COUNTRIES;MNE;Montenegro;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;7574;6500;85,82
+COUNTRIES;MSR;Montserrat;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;53;46;87
+COUNTRIES;MAR;Morocco;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;654141;662585;100
+COUNTRIES;MOZ;Mozambique;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1001157;1157224;116
+COUNTRIES;MMR;Myanmar;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;950560;864773;90,98
+COUNTRIES;NAM;Namibia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;82977;74222;89
+COUNTRIES;NRU;Nauru;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;317;286;90,22
+COUNTRIES;NPL;Nepal;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;623394;538055;86,31
+COUNTRIES;NLD;Netherlands (Kingdom of the);2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;174109;162781;93,49
+COUNTRIES;NCL;New Caledonia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;4059;;
+COUNTRIES;NZL;New Zealand;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;61074;56578;92,64
+COUNTRIES;NIC;Nicaragua;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;133801;146398;109
+COUNTRIES;NER;Niger;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;930965;928161;100
+COUNTRIES;NGA;Nigeria;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;7565078;7154872;94,58
+COUNTRIES;NIU;Niue;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;25;22;88
+COUNTRIES;MKD;North Macedonia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;21472;19870;92,54
+COUNTRIES;MNP;Northern Mariana Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1259;969;77
+COUNTRIES;NOR;Norway;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;60358;;96
+COUNTRIES;PSE;occupied Palestinian territory, including east Jerusalem;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;137006;135425;98,85
+COUNTRIES;OMN;Oman;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;87677;86997;99,22
+COUNTRIES;PAK;Pakistan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;6557146;5528733;84
+COUNTRIES;PLW;Palau;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;328;314;95
+COUNTRIES;PAN;Panama;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;70945;62477;88
+COUNTRIES;PNG;Papua New Guinea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;271531;122073;45
+COUNTRIES;PRY;Paraguay;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;141841;108072;76
+COUNTRIES;PER;Peru;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;535761;517500;96,59
+COUNTRIES;PHL;Philippines;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;2866558;1866105;65,1
+COUNTRIES;POL;Poland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;395454;376461;95,2
+COUNTRIES;PRT;Portugal;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;
+COUNTRIES;QAT;Qatar;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;27863;27304;97,9
+COUNTRIES;KOR;Republic of Korea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;361542;352444;97,48
+COUNTRIES;MDA;Republic of Moldova;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;38735;35962;92,84
+COUNTRIES;ROU;Romania;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;172400;160900;93,3
+COUNTRIES;RUS;Russian Federation;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1598165;1548373;96,88
+COUNTRIES;RWA;Rwanda;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;357822;347426;97,09
+COUNTRIES;KNA;Saint Kitts and Nevis;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;669;653;98
+COUNTRIES;LCA;Saint Lucia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1864;1774;95
+COUNTRIES;VCT;Saint Vincent and the Grenadines;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1545;1499;97
+COUNTRIES;WSM;Samoa;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;5812;2567;44
+COUNTRIES;SMR;San Marino;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;271;245;90,41
+COUNTRIES;STP;Sao Tome and Principe;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;5448;5200;95
+COUNTRIES;SAU;Saudi Arabia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;552911;530795;96
+COUNTRIES;SEN;Senegal;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;548839;449206;82
+COUNTRIES;SRB;Serbia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;66102;62623;94,7
+COUNTRIES;SYC;Seychelles;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1619;1621;100
+COUNTRIES;SLE;Sierra Leone;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;230557;239524;103,89
+COUNTRIES;SGP;Singapore;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;33729;32408;97,4
+COUNTRIES;SXM;Sint Maarten (Dutch part);2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;419;374;89
+COUNTRIES;SVK;Slovakia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;57761;55737;96,5
+COUNTRIES;SVN;Slovenia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;
+COUNTRIES;SLB;Solomon Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;16589;14028;84,56
+COUNTRIES;SOM;Somalia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;588110;403765;69
+COUNTRIES;ZAF;South Africa;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1148881;960633;83,61
+COUNTRIES;SSD;South Sudan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;466745;262309;56,2
+COUNTRIES;ESP;Spain;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;369679;345351;96
+COUNTRIES;LKA;Sri Lanka;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;327116;314570;96
+COUNTRIES;SDN;Sudan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1548415;1476623;93,2
+COUNTRIES;SUR;Suriname;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;9505;9008;95
+COUNTRIES;SWE;Sweden;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;
+COUNTRIES;CHE;Switzerland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;95,9
+COUNTRIES;SYR;Syrian Arab Republic;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;524578;346269;66
+COUNTRIES;TJK;Tajikistan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;250022;239061;95,6
+COUNTRIES;THA;Thailand;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;421063;379337;90,09
+COUNTRIES;TLS;Timor-Leste;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;45040;40644;90
+COUNTRIES;TGO;Togo;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;308775;271357;87,88
+COUNTRIES;TKL;Tokelau;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;30;29;96
+COUNTRIES;TON;Tonga;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;2216;2212;99,8
+COUNTRIES;TTO;Trinidad and Tobago;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;15286;15263;100
+COUNTRIES;TUN;Tunisia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;208133;186579;89,64
+COUNTRIES;TUR;Türkiye;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1241407;1216240;98
+COUNTRIES;TKM;Turkmenistan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;98,8
+COUNTRIES;TCA;Turks and Caicos Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;604;561;93
+COUNTRIES;TUV;Tuvalu;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;289;258;89,2
+COUNTRIES;UGA;Uganda;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1669393;1558579;93,36
+COUNTRIES;UKR;Ukraine;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;333477;231009;69,3
+COUNTRIES;ARE;United Arab Emirates;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;49236;49236;100
+COUNTRIES;GBR;United Kingdom of Great Britain and Northern Ireland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;772012;722440;94
+COUNTRIES;TZA;United Republic of Tanzania;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;2013744;1984510;98,55
+COUNTRIES;USA;United States of America;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;;;
+COUNTRIES;URY;Uruguay;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;40120;36705;91
+COUNTRIES;UZB;Uzbekistan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;714713;699853;97,9
+COUNTRIES;VUT;Vanuatu;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;8744;7867;87,43
+COUNTRIES;VEN;Venezuela (Bolivarian Republic of);2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;538026;321580;60
+COUNTRIES;VNM;Viet Nam;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1670313;1247159;74,67
+COUNTRIES;WLF;Wallis and Futuna;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;126;172;
+COUNTRIES;YEM;Yemen;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;1013963;808104;79,7
+COUNTRIES;ZMB;Zambia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;675509;606584;89,8
+COUNTRIES;ZWE;Zimbabwe;2018;DTPCV3;DTP-containing vaccine, 3rd dose;ADMIN;Administrative coverage;454978;403825;88,76
+COUNTRIES;AFG;Afghanistan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;87
+COUNTRIES;ALB;Albania;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;98,8
+COUNTRIES;DZA;Algeria;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;AND;Andorra;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;99,53
+COUNTRIES;AGO;Angola;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;83,7
+COUNTRIES;AIA;Anguilla;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;ATG;Antigua and Barbuda;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;ARG;Argentina;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;86
+COUNTRIES;ARM;Armenia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;92,48
+COUNTRIES;ABW;Aruba;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;AUS;Australia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;94,61
+COUNTRIES;AUT;Austria;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;84,9
+COUNTRIES;AZE;Azerbaijan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;94,7
+COUNTRIES;BHS;Bahamas;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;90
+COUNTRIES;BHR;Bahrain;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;BGD;Bangladesh;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;90
+COUNTRIES;BRB;Barbados;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;BLR;Belarus;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97,1
+COUNTRIES;BEL;Belgium;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97,8
+COUNTRIES;BLZ;Belize;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;BEN;Benin;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;82
+COUNTRIES;BMU;Bermuda;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;BTN;Bhutan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;BOL;Bolivia (Plurinational State of);2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;83
+COUNTRIES;BIH;Bosnia and Herzegovina;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;72,8
+COUNTRIES;BWA;Botswana;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;93
+COUNTRIES;BRA;Brazil;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;87
+COUNTRIES;VGB;British Virgin Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;92
+COUNTRIES;BRN;Brunei Darussalam;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;BGR;Bulgaria;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;91,5
+COUNTRIES;BFA;Burkina Faso;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;BDI;Burundi;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;90
+COUNTRIES;CPV;Cabo Verde;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97,5
+COUNTRIES;KHM;Cambodia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;
+COUNTRIES;CMR;Cameroon;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;68
+COUNTRIES;CAN;Canada;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;CYM;Cayman Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;93
+COUNTRIES;CAF;Central African Republic;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;74
+COUNTRIES;TCD;Chad;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;77
+COUNTRIES;CHL;Chile;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;CHN;China;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;
+COUNTRIES;HKG;China, Hong Kong SAR;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;MAC;China, Macao SAR;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;94,8
+COUNTRIES;COL;Colombia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;92
+COUNTRIES;COM;Comoros;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;COG;Congo;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;83
+COUNTRIES;COK;Cook Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;CRI;Costa Rica;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;94
+COUNTRIES;CIV;Côte d'Ivoire;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;HRV;Croatia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;93,3
+COUNTRIES;CUB;Cuba;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;99
+COUNTRIES;CUW;Curaçao;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;92
+COUNTRIES;CYP;Cyprus;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;98,6
+COUNTRIES;CZE;Czechia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;
+COUNTRIES;PRK;Democratic People's Republic of Korea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97,1
+COUNTRIES;COD;Democratic Republic of the Congo;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;71
+COUNTRIES;DNK;Denmark;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;96,8
+COUNTRIES;DJI;Djibouti;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;83,95
+COUNTRIES;DMA;Dominica;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;94
+COUNTRIES;DOM;Dominican Republic;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;94
+COUNTRIES;ECU;Ecuador;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;85
+COUNTRIES;EGY;Egypt;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;94,9
+COUNTRIES;SLV;El Salvador;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;81
+COUNTRIES;GNQ;Equatorial Guinea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;46
+COUNTRIES;ERI;Eritrea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;EST;Estonia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;91,9
+COUNTRIES;SWZ;Eswatini;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;90
+COUNTRIES;ETH;Ethiopia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;FJI;Fiji;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;85
+COUNTRIES;FIN;Finland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;FRA;France;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;96,3
+COUNTRIES;PYF;French Polynesia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;98
+COUNTRIES;GAB;Gabon;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;70
+COUNTRIES;GMB;Gambia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;93
+COUNTRIES;GEO;Georgia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;93
+COUNTRIES;DEU;Germany;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;
+COUNTRIES;GHA;Ghana;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;GRC;Greece;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;99,5
+COUNTRIES;GRD;Grenada;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;GUM;Guam;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;
+COUNTRIES;GTM;Guatemala;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;85
+COUNTRIES;GIN;Guinea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;75
+COUNTRIES;GNB;Guinea-Bissau;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;82
+COUNTRIES;GUY;Guyana;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;HTI;Haiti;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;94,22
+COUNTRIES;HND;Honduras;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;HUN;Hungary;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;
+COUNTRIES;ISL;Iceland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;IND;India;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;99
+COUNTRIES;IDN;Indonesia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;75,92
+COUNTRIES;IRN;Iran (Islamic Republic of);2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;99
+COUNTRIES;IRQ;Iraq;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;86
+COUNTRIES;IRL;Ireland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;94,47
+COUNTRIES;ISR;Israel;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97,6
+COUNTRIES;ITA;Italy;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;
+COUNTRIES;JAM;Jamaica;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;JPN;Japan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;100,98
+COUNTRIES;JOR;Jordan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;KAZ;Kazakhstan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;98
+COUNTRIES;KEN;Kenya;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;81,46
+COUNTRIES;KIR;Kiribati;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;KWT;Kuwait;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;KGZ;Kyrgyzstan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;94,4
+COUNTRIES;LAO;Lao People's Democratic Republic;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;LVA;Latvia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;LBN;Lebanon;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;94
+COUNTRIES;LSO;Lesotho;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;83
+COUNTRIES;LBR;Liberia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;LBY;Libya;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;LTU;Lithuania;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;92,3
+COUNTRIES;LUX;Luxembourg;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;99,2
+COUNTRIES;MDG;Madagascar;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;MWI;Malawi;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;92
+COUNTRIES;MYS;Malaysia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;
+COUNTRIES;MDV;Maldives;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;98,7
+COUNTRIES;MLI;Mali;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;72
+COUNTRIES;MLT;Malta;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;MHL;Marshall Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;81
+COUNTRIES;MRT;Mauritania;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;90,05
+COUNTRIES;MUS;Mauritius;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;MEX;Mexico;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;88
+COUNTRIES;FSM;Micronesia (Federated States of);2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;75
+COUNTRIES;MCO;Monaco;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;MNG;Mongolia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;98,6
+COUNTRIES;MNE;Montenegro;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;85,82
+COUNTRIES;MSR;Montserrat;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;87
+COUNTRIES;MAR;Morocco;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;MOZ;Mozambique;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;90
+COUNTRIES;MMR;Myanmar;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;NAM;Namibia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;88
+COUNTRIES;NRU;Nauru;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;90,22
+COUNTRIES;NPL;Nepal;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;NLD;Netherlands (Kingdom of the);2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;93,49
+COUNTRIES;NCL;New Caledonia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;98
+COUNTRIES;NZL;New Zealand;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;92,64
+COUNTRIES;NIC;Nicaragua;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;109
+COUNTRIES;NER;Niger;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;79
+COUNTRIES;NGA;Nigeria;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;57,7
+COUNTRIES;NIU;Niue;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;MKD;North Macedonia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;92,5
+COUNTRIES;MNP;Northern Mariana Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;65
+COUNTRIES;NOR;Norway;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;PSE;occupied Palestinian territory, including east Jerusalem;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;OMN;Oman;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;PAK;Pakistan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;72
+COUNTRIES;PLW;Palau;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;PAN;Panama;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;88
+COUNTRIES;PNG;Papua New Guinea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;50
+COUNTRIES;PRY;Paraguay;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;76
+COUNTRIES;PER;Peru;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;96,59
+COUNTRIES;PHL;Philippines;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;65
+COUNTRIES;POL;Poland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95,2
+COUNTRIES;PRT;Portugal;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;98,6
+COUNTRIES;QAT;Qatar;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97,9
+COUNTRIES;KOR;Republic of Korea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97,8
+COUNTRIES;MDA;Republic of Moldova;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;92,8
+COUNTRIES;ROU;Romania;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;86,2
+COUNTRIES;RUS;Russian Federation;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;96,88
+COUNTRIES;RWA;Rwanda;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;KNA;Saint Kitts and Nevis;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;98
+COUNTRIES;LCA;Saint Lucia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;VCT;Saint Vincent and the Grenadines;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;WSM;Samoa;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;44
+COUNTRIES;SMR;San Marino;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;90
+COUNTRIES;STP;Sao Tome and Principe;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;SAU;Saudi Arabia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;SEN;Senegal;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;81
+COUNTRIES;SRB;Serbia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;96,5
+COUNTRIES;SYC;Seychelles;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;99
+COUNTRIES;SLE;Sierra Leone;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;94
+COUNTRIES;SGP;Singapore;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;96
+COUNTRIES;SXM;Sint Maarten (Dutch part);2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;89
+COUNTRIES;SVK;Slovakia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;96,5
+COUNTRIES;SVN;Slovenia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;93,4
+COUNTRIES;SLB;Solomon Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;85
+COUNTRIES;SOM;Somalia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;53
+COUNTRIES;ZAF;South Africa;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;82,14
+COUNTRIES;SSD;South Sudan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;49,3
+COUNTRIES;ESP;Spain;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95,5
+COUNTRIES;LKA;Sri Lanka;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;99
+COUNTRIES;SDN;Sudan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;93,2
+COUNTRIES;SUR;Suriname;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95
+COUNTRIES;SWE;Sweden;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97,4
+COUNTRIES;CHE;Switzerland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95,9
+COUNTRIES;SYR;Syrian Arab Republic;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;66
+COUNTRIES;TJK;Tajikistan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;95,6
+COUNTRIES;THA;Thailand;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;96,52
+COUNTRIES;TLS;Timor-Leste;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;83,3
+COUNTRIES;TGO;Togo;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;88
+COUNTRIES;TKL;Tokelau;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;
+COUNTRIES;TON;Tonga;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;99
+COUNTRIES;TTO;Trinidad and Tobago;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;TUN;Tunisia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97
+COUNTRIES;TUR;Türkiye;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;98
+COUNTRIES;TKM;Turkmenistan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;98,8
+COUNTRIES;TCA;Turks and Caicos Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;93
+COUNTRIES;TUV;Tuvalu;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;89,2
+COUNTRIES;UGA;Uganda;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;78,6
+COUNTRIES;UKR;Ukraine;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;69,3
+COUNTRIES;ARE;United Arab Emirates;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;100
+COUNTRIES;GBR;United Kingdom of Great Britain and Northern Ireland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;94
+COUNTRIES;TZA;United Republic of Tanzania;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;98
+COUNTRIES;USA;United States of America;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;94
+COUNTRIES;URY;Uruguay;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;91
+COUNTRIES;UZB;Uzbekistan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;97,9
+COUNTRIES;VUT;Vanuatu;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;85
+COUNTRIES;VEN;Venezuela (Bolivarian Republic of);2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;60
+COUNTRIES;VNM;Viet Nam;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;
+COUNTRIES;WLF;Wallis and Futuna;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;
+COUNTRIES;YEM;Yemen;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;80
+COUNTRIES;ZMB;Zambia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;90
+COUNTRIES;ZWE;Zimbabwe;2018;DTPCV3;DTP-containing vaccine, 3rd dose;OFFICIAL;Official coverage;;;89
+COUNTRIES;AFG;Afghanistan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;67
+COUNTRIES;ALB;Albania;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;DZA;Algeria;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;AND;Andorra;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;AGO;Angola;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;63
+COUNTRIES;ATG;Antigua and Barbuda;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;ARG;Argentina;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;86
+COUNTRIES;ARM;Armenia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;AUS;Australia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;AUT;Austria;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;85
+COUNTRIES;AZE;Azerbaijan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;BHS;Bahamas;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;90
+COUNTRIES;BHR;Bahrain;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;BGD;Bangladesh;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;BRB;Barbados;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;BLR;Belarus;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;BEL;Belgium;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;BLZ;Belize;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;BEN;Benin;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;73
+COUNTRIES;BTN;Bhutan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;BOL;Bolivia (Plurinational State of);2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;83
+COUNTRIES;BIH;Bosnia and Herzegovina;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;73
+COUNTRIES;BWA;Botswana;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;BRA;Brazil;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;87
+COUNTRIES;BRN;Brunei Darussalam;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;BGR;Bulgaria;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;BFA;Burkina Faso;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;BDI;Burundi;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;90
+COUNTRIES;CPV;Cabo Verde;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;KHM;Cambodia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;89
+COUNTRIES;CMR;Cameroon;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;68
+COUNTRIES;CAN;Canada;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;CAF;Central African Republic;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;42
+COUNTRIES;TCD;Chad;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;46
+COUNTRIES;CHL;Chile;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;CHN;China;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;COL;Colombia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;COM;Comoros;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;77
+COUNTRIES;COG;Congo;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;75
+COUNTRIES;COK;Cook Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;CRI;Costa Rica;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;94
+COUNTRIES;CIV;Côte d'Ivoire;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;83
+COUNTRIES;HRV;Croatia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;CUB;Cuba;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;CYP;Cyprus;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;CZE;Czechia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;PRK;Democratic People's Republic of Korea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;COD;Democratic Republic of the Congo;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;71
+COUNTRIES;DNK;Denmark;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;DJI;Djibouti;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;84
+COUNTRIES;DMA;Dominica;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;94
+COUNTRIES;DOM;Dominican Republic;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;87
+COUNTRIES;ECU;Ecuador;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;85
+COUNTRIES;EGY;Egypt;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;SLV;El Salvador;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;89
+COUNTRIES;GNQ;Equatorial Guinea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;59
+COUNTRIES;ERI;Eritrea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;EST;Estonia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;SWZ;Eswatini;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;90
+COUNTRIES;ETH;Ethiopia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;67
+COUNTRIES;FJI;Fiji;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;94
+COUNTRIES;FIN;Finland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;FRA;France;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;GAB;Gabon;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;70
+COUNTRIES;GMB;Gambia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;GEO;Georgia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;DEU;Germany;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;GHA;Ghana;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;GRC;Greece;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;GRD;Grenada;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;GTM;Guatemala;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;85
+COUNTRIES;GIN;Guinea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;47
+COUNTRIES;GNB;Guinea-Bissau;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;82
+COUNTRIES;GUY;Guyana;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;HTI;Haiti;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;64
+COUNTRIES;HND;Honduras;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;HUN;Hungary;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;ISL;Iceland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;IND;India;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;90
+COUNTRIES;IDN;Indonesia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;85
+COUNTRIES;IRN;Iran (Islamic Republic of);2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;IRQ;Iraq;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;86
+COUNTRIES;IRL;Ireland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;94
+COUNTRIES;ISR;Israel;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;ITA;Italy;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;JAM;Jamaica;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;JPN;Japan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;JOR;Jordan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;KAZ;Kazakhstan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;KEN;Kenya;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;KIR;Kiribati;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;KWT;Kuwait;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;KGZ;Kyrgyzstan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;94
+COUNTRIES;LAO;Lao People's Democratic Republic;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;85
+COUNTRIES;LVA;Latvia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;LBN;Lebanon;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;77
+COUNTRIES;LSO;Lesotho;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;87
+COUNTRIES;LBR;Liberia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;80
+COUNTRIES;LBY;Libya;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;73
+COUNTRIES;LTU;Lithuania;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;LUX;Luxembourg;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;MDG;Madagascar;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;74
+COUNTRIES;MWI;Malawi;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;MYS;Malaysia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;MDV;Maldives;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;MLI;Mali;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;77
+COUNTRIES;MLT;Malta;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;MHL;Marshall Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;81
+COUNTRIES;MRT;Mauritania;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;77
+COUNTRIES;MUS;Mauritius;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;MEX;Mexico;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;88
+COUNTRIES;FSM;Micronesia (Federated States of);2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;75
+COUNTRIES;MCO;Monaco;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;MNG;Mongolia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;MNE;Montenegro;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;86
+COUNTRIES;MAR;Morocco;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;MOZ;Mozambique;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;85
+COUNTRIES;MMR;Myanmar;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;NAM;Namibia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;89
+COUNTRIES;NRU;Nauru;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;90
+COUNTRIES;NPL;Nepal;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;NLD;Netherlands (Kingdom of the);2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;NZL;New Zealand;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;NIC;Nicaragua;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;NER;Niger;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;79
+COUNTRIES;NGA;Nigeria;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;61
+COUNTRIES;NIU;Niue;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;MKD;North Macedonia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;NOR;Norway;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;PSE;occupied Palestinian territory, including east Jerusalem;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;OMN;Oman;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;PAK;Pakistan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;80
+COUNTRIES;PLW;Palau;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;PAN;Panama;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;88
+COUNTRIES;PNG;Papua New Guinea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;35
+COUNTRIES;PRY;Paraguay;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;88
+COUNTRIES;PER;Peru;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;89
+COUNTRIES;PHL;Philippines;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;84
+COUNTRIES;POL;Poland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;PRT;Portugal;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;QAT;Qatar;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;KOR;Republic of Korea;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;MDA;Republic of Moldova;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;ROU;Romania;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;86
+COUNTRIES;RUS;Russian Federation;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;RWA;Rwanda;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;KNA;Saint Kitts and Nevis;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;LCA;Saint Lucia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;VCT;Saint Vincent and the Grenadines;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;WSM;Samoa;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;44
+COUNTRIES;SMR;San Marino;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;90
+COUNTRIES;STP;Sao Tome and Principe;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;95
+COUNTRIES;SAU;Saudi Arabia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;SEN;Senegal;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;92
+COUNTRIES;SRB;Serbia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;SYC;Seychelles;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;SLE;Sierra Leone;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;SGP;Singapore;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;SVK;Slovakia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;SVN;Slovenia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;SLB;Solomon Islands;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;85
+COUNTRIES;SOM;Somalia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;42
+COUNTRIES;ZAF;South Africa;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;82
+COUNTRIES;SSD;South Sudan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;59
+COUNTRIES;ESP;Spain;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;LKA;Sri Lanka;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;SDN;Sudan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;SUR;Suriname;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;81
+COUNTRIES;SWE;Sweden;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;CHE;Switzerland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;SYR;Syrian Arab Republic;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;60
+COUNTRIES;TJK;Tajikistan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;96
+COUNTRIES;THA;Thailand;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;TLS;Timor-Leste;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;83
+COUNTRIES;TGO;Togo;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;81
+COUNTRIES;TON;Tonga;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;TTO;Trinidad and Tobago;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;TUN;Tunisia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;97
+COUNTRIES;TUR;Türkiye;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;TKM;Turkmenistan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;TUV;Tuvalu;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;89
+COUNTRIES;UGA;Uganda;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;93
+COUNTRIES;UKR;Ukraine;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;69
+COUNTRIES;ARE;United Arab Emirates;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;99
+COUNTRIES;GBR;United Kingdom of Great Britain and Northern Ireland;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;94
+COUNTRIES;TZA;United Republic of Tanzania;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;89
+COUNTRIES;USA;United States of America;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;94
+COUNTRIES;URY;Uruguay;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;91
+COUNTRIES;UZB;Uzbekistan;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;98
+COUNTRIES;VUT;Vanuatu;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;85
+COUNTRIES;VEN;Venezuela (Bolivarian Republic of);2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;60
+COUNTRIES;VNM;Viet Nam;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;75
+COUNTRIES;YEM;Yemen;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;54
+COUNTRIES;ZMB;Zambia;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;90
+COUNTRIES;ZWE;Zimbabwe;2018;DTPCV3;DTP-containing vaccine, 3rd dose;WUENIC;WHO/UNICEF Estimates of National Immunization Coverage;;;89
+Exported: 2025-4-6 11:2 UTC;;;;;;;;;;
